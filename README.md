@@ -1,4 +1,4 @@
-# RWG Web Scraper
+# Random Word Generator Scraper
 
 This is a simple webscraper for [https://randomwordgenerator.com/] that posts the returned words as an array in the console.
 
